@@ -6,7 +6,7 @@ gradio
 imageio
 matplotlib
 mmdet==3.2.0
-mmpose==1.2.0
+mmpose
 numpy
 omegaconf
 opencv_python
